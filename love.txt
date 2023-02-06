@@ -14,5 +14,6 @@ I love you forever! merge test
 I love you forever!happy test
 public class Student{
  public static void main(String[] args){
+  System.out.println("hello world);
  }
 }
